@@ -1,5 +1,6 @@
 export class Invoice {
-    /*readonly client: string;
+    /*
+    readonly client: string;
     private details: string;
      public amount: number;
  
@@ -7,7 +8,8 @@ export class Invoice {
          this.client = c;
          this.details = d;
          this.amount = a;
-     }*/
+     }
+     */
     constructor(client, details, amount) {
         this.client = client;
         this.details = details;
